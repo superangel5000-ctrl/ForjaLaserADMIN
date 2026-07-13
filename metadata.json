@@ -1,6 +1,0 @@
-{
-  "name": "Forja Laser - Panel de Administración",
-  "description": "Panel administrativo de inventario, cálculo de costos de MDF y cotizaciones por WhatsApp para colaboradores de Forja Laser.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
